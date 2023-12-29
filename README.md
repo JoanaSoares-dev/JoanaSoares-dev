@@ -2,9 +2,8 @@
 #### Welcome to my GitHub
 ![Welcome to my GitHub](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl5dG1iOWNxcW93d2FtN2szMmR5ZWxzMXI1MGZ3Z2hxdHkwYnlkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif)
 
-Swiss Based graphics designer + web designer
-18 - Togolese/Portuguese
-Student
+🇨🇭 Swiss Based graphics designer + web designer 🐱
+
 
 Skills: JS + HTML + CSS + Design on Canva / Procreate / Illustrator / Photoshop
 
