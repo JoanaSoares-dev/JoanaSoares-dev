@@ -1,4 +1,4 @@
-### Hi there 🦋, I'm Joana
+### Hi there, I'm Joana 🦋
 #### Welcome to my GitHub
 ![Welcome to my GitHub](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl5dG1iOWNxcW93d2FtN2szMmR5ZWxzMXI1MGZ3Z2hxdHkwYnlkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif)
 
